@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"SAJEK VALLEY",
+        "img":"https://i.ibb.co/7XGgkTX/Sajek.png",
+        "price":6.99,
+        "des":"Lorem ipsum dolor sit amet consecteturadipisicing elit. Eum cupiditate excepturi ex facilis adipisicing elit. Eum cupiditate excepturi ex facilis"
+
+    },
+    {
+        "id":2,
+        "name":"SREE MANGAL",
+        "img":"https://i.ibb.co/TgKr5dH/Sreemongol.png",
+        "price":9.99,
+        "des":"Lorem ipsum dolor sit amet consectetur adipisici adipisicing elit. Eum cupiditate excepturi ex facilisng elit. Eum cupiditate excepturi ex facilis "
+
+    },
+    {
+        "id":3,
+        "name":"SUNDARBAN",
+        "img":"https://i.ibb.co/K2CPDZN/sundorbon.png",
+        "price":10.99,
+        "des":"Lorem ipsum dolor sit amet consectetur adipi adipisicing elit. Eum cupiditate excepturi ex facilis sicing elit. Eum cupiditate excepturi ex facilis fugiat libero,"
+
+    }
+]

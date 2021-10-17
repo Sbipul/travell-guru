@@ -1,0 +1,20 @@
+.backGround{
+  background-image: url('https://i.ibb.co/z7tRcL5/Rectangle-1.png');
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  position: relative;
+  z-index: 1;
+}
+.backGround::after{
+  height: 100%;
+  width: 100%;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  position: absolute;
+  content: "";
+  background: rgba(0, 0, 0, 0.616);
+}
